@@ -42426,7 +42426,7 @@ A.acc.prototype={
 $0(){var s=this.a,r=s.d,q=s.JW(r.a.a)
 A.uO(new A.mN(q+(s.r?s.JV(new A.fO(Date.now(),!1).k(0).split(" ")[0]):"")))
 A.Zt(B.ce,16,B.QO,"Copied to clipboard",B.j,1,B.QQ)
-s.f.xE("copied",A.aw(["source","clipboard","length",r.a.a.length,"date",s.r],t.N,t.X))},
+s.f.xE("copied",A.aw(["source","clipboard","length",r.a.a.length,"date",s.r,"case",s.w],t.N,t.X))},
 $S:0}
 A.ah7.prototype={
 $2(a,b){return A.pL(A.akb(a,this.b,this.c,this.a),b)},
